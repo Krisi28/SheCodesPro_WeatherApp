@@ -1,0 +1,43 @@
+.application {
+    border: 2px solid #FCA3CC;
+    padding: 20px;
+}
+
+.header {
+    border: 1px solid #BDE6EB;
+    text-align: center;
+}
+
+.EnterCity {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FCA3CC;
+    padding: 10px 100px 10px 100px;
+    margin: 10px 260px 10px 260px;
+    background-color:  #BDE6EB;
+}
+
+.card-text {
+    font-size: 20px;
+    color: #BDE6EB;
+}
+
+.col-sm {
+    font-size: 20px;
+    color: #BDE6EB;
+    font-weight: bolder;
+}
+
+.card-title {
+    font-size: 20px;
+    color: #FCA3CC;
+    font-weight: bolder;
+}
